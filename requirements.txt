@@ -1,6 +1,6 @@
-streamlit
-numpy
-pandas
-torch
-transformers
-sentence-transformers
+streamlit==1.41.0
+numpy==2.2.3
+pandas==2.2.3
+torch==2.4.1
+transformers==4.49.0
+sentence-transformers==3.4.1
